@@ -1,0 +1,17 @@
+# R packages required
+tidyverse
+dplyr
+lubridate
+listviewer
+caret
+h2o
+jsonlite
+
+# Software requirements
+R version >= 4.2.0
+RStudio
+
+# Special installation instructions for H2O package:
+# - H2O requires Java 64-bit installed on your system.
+# - Follow official installation guide here:
+# https://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html#install-in-r
